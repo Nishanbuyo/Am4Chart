@@ -1,0 +1,46 @@
+[
+    {
+        "Day" : "Sunday",
+        "Momo" : 500,
+        "Chowmin": 1000,
+        "color": "#f47983"
+    },
+    {
+        "Day" : "Monday",
+        "Momo" : 800,
+        "Chowmin": 600,
+        "color": "#f47983"
+    },
+    {
+        "Day" : "Tuesday",
+        "Momo" : 600,
+        "Chowmin": 8000,
+        "color": "#f47983"
+    },
+    {
+        "Day" : "Wednesday",
+        "Momo" : 670,
+        "Chowmin": 670,
+        "color": "#f47983"
+    },
+    {
+        "Day" : "Thursday",
+        "Momo" : 350,
+        "Chowmin": 560,
+        "color": "#f47983"
+    },
+    {
+        "Day" : "Friday",
+        "Momo" : 2200,
+        "Chowmin": 1000,
+        "color": "#f47983"
+    },
+    {
+        "Day" : "Saturday",
+        "Momo" : 1200,
+        "Chowmin": 800,
+        "color": "#f47983"
+    }
+    
+
+]

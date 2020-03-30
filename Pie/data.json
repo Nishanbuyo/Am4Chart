@@ -1,0 +1,48 @@
+[
+    {
+        "item": "Momo",
+        "price": 53000,
+        "color": "#f47983"
+    },
+    {
+        "item": "Chowmin",
+        "price": 40000,
+        "color": "yellow"
+    },
+    {
+        "item": "Icecream",
+        "price": 30000,
+        "color": "#fffdd0"
+    },
+    {
+        "item": "Sausage",
+        "price": 23000,
+        "color": "#d87997"
+    },
+    {
+        "item": "Chocolate",
+        "price": 15000,
+        "color": "#813531"
+    },
+    {
+        "item": "Broccoli",
+        "price": 42000,
+        "color": "#0b8500"
+    },
+    {
+        "item": "Orange Juice",
+        "price": 37000,
+        "color": "orange"
+    },
+    {
+        "item": "Pizza",
+        "price": 52325,
+        "color": "#bf8d3c"
+    },
+    {
+        "item": "Pasta",
+        "price": 7000,
+        "color": "#b57a7a"
+    }
+
+]
